@@ -11,6 +11,6 @@ This is the **public downloads-only repository** for Post-Ragnarök.
 
 ## Current availability
 
-Game releases are made **only after** the build, Godot tests, Windows Defender scan, integrity checks, and authorized manifest signing have passed. The launcher will report *No signed release published yet* until the first verified release is published.
+**vG1.2 is now available:** [Post-Ragnarök G1.2 release](https://github.com/rcruz08/post-ragnarok-updates/releases/tag/vG1.2) has `Post-Ragnarok.exe`, `Post-Ragnarok.pck`, and publisher-signed `update.json`. The game was built from verified source and went through Godot regression tests and a Windows Defender scan. Use the latest launcher, which trusts the rotated publishing key.
 
 **Security:** An antivirus scan does not guarantee software is risk-free or reverse a Chrome Safe Browsing block. Do not bypass browser or antivirus warnings to install a build. The Windows launcher and game executables are currently unsigned developer builds.
