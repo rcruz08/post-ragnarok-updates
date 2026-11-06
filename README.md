@@ -11,6 +11,6 @@ This is the **public downloads-only repository** for Post-Ragnarök.
 
 ## Current availability
 
-**vG1.2 is now available:** [Post-Ragnarök G1.2 release](https://github.com/rcruz08/post-ragnarok-updates/releases/tag/vG1.2) has `Post-Ragnarok.exe`, `Post-Ragnarok.pck`, and publisher-signed `update.json`. The game was built from verified source and went through Godot regression tests and a Windows Defender scan. Use the latest launcher, which trusts the rotated publishing key.
+**Latest: [vG1.3](https://github.com/rcruz08/post-ragnarok-updates/releases/tag/vG1.3)** — approved Apprentice art integration and eight-direction sprite atlas, published with signed `update.json` following Godot tests and Microsoft Defender scanning. Previous [vG1.2](https://github.com/rcruz08/post-ragnarok-updates/releases/tag/vG1.2) is retained. The unchanged 97.5 MB engine EXE hashes identically between G1.2 and G1.3, so players with G1.2 installed should fetch just the changed 2.38 MB `.pck` when checking for updates.
 
 **Security:** An antivirus scan does not guarantee software is risk-free or reverse a Chrome Safe Browsing block. Do not bypass browser or antivirus warnings to install a build. The Windows launcher and game executables are currently unsigned developer builds.
